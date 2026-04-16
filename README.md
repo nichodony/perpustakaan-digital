@@ -30,6 +30,7 @@ Project ini berjalan secara lokal (localhost) dan belum di-deploy ke server onli
 ![Home](dashboard_admin.png)
 ![Daftar Buku](daftarbuku_admin.png)
 ![Laporan](daftar_peminjaman_admin.png)
+![Daftar Petugas](daftar_petugas_admin.png)
 ![Daftar User](daftar_user_admin.png)
 ![Kategori Buku](kategori_buku_admin.png)
 
