@@ -19,7 +19,7 @@ Project ini adalah website peminjaman buku sederhana yang dibuat untuk latihan p
 2. Aktifkan Apache & MySQL
 3. Import file database.sql ke phpMyAdmin
 4. Jalankan di browser:
-   http://localhost/perpustakaan
+   http://localhost/perpustakaan-digital
 
 ## 📌 Catatan
 Project ini berjalan secara lokal (localhost) dan belum di-deploy ke server online.
